@@ -1,3 +1,5 @@
+<img src="https://github.com/carebitcoin/carebit-brand/blob/master/assets_raster/logotypes/L3H_text_light.png" alt="Carebit logo" width=315px >
+
 # Carebit Brand Identity
 
 This is a repository for logo icons, logotypes, images and other related content associated with [Carebit project](https://carebit.org/).
