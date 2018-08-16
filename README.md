@@ -1,4 +1,4 @@
-<img src="https://github.com/carebitcoin/carebit-brand/blob/master/assets_raster/logotypes/L3H_text_light.png" alt="Carebit logo" width=315px >
+<img src="https://github.com/carebitcoin/carebit-brand/blob/master/assets_raster/logotypes/L3H_text_light_alpha_500x188.png" alt="Carebit logo" width=330px >
 
 # Carebit Brand Identity
 
